@@ -124,10 +124,10 @@
     <None Include="Resources\Lambo.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\1.jpg" />
+    <None Include="Resources\Ferrari.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\2.jpg" />
+    <None Include="Resources\Porsche.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\3.jpg" />
@@ -149,6 +149,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\10.jpg" />
@@ -178,9 +184,6 @@
     <None Include="Resources\18.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Ferrari.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\19.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -206,9 +209,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\27.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Porsche.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
